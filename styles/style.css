@@ -78,3 +78,30 @@ body {
 
 
 /* options */
+
+h2 {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 167%;
+    /* or 80px */
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 167%;
+}
+
+.opcions-desc {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 167%;
+}
